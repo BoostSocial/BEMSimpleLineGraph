@@ -1,6 +1,0 @@
-framework module BEMSimpleLineGraph {
-  umbrella header "BEMSimpleLineGraph.h"
-
-  export *
-  module * { export * }
-}
