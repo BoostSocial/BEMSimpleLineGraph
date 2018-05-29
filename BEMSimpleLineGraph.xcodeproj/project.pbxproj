@@ -11,12 +11,12 @@
 		3F013F0320BD2367003E2D55 /* BEMAverageLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013EF920BD2366003E2D55 /* BEMAverageLine.m */; };
 		3F013F0420BD2367003E2D55 /* BEMSimpleLineGraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013EFA20BD2366003E2D55 /* BEMSimpleLineGraphView.m */; };
 		3F013F0520BD2367003E2D55 /* BEMCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013EFB20BD2366003E2D55 /* BEMCircle.m */; };
-		3F013F0620BD2367003E2D55 /* BEMAverageLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013EFC20BD2366003E2D55 /* BEMAverageLine.h */; };
-		3F013F0720BD2367003E2D55 /* BEMGraphCalculator.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013EFD20BD2366003E2D55 /* BEMGraphCalculator.h */; };
+		3F013F0620BD2367003E2D55 /* BEMAverageLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013EFC20BD2366003E2D55 /* BEMAverageLine.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3F013F0720BD2367003E2D55 /* BEMGraphCalculator.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013EFD20BD2366003E2D55 /* BEMGraphCalculator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F013F0820BD2367003E2D55 /* BEMGraphCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013EFE20BD2366003E2D55 /* BEMGraphCalculator.m */; };
 		3F013F0920BD2367003E2D55 /* BEMSimpleLineGraphView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013EFF20BD2366003E2D55 /* BEMSimpleLineGraphView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3F013F0A20BD2367003E2D55 /* BEMCircle.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013F0020BD2366003E2D55 /* BEMCircle.h */; };
-		3F013F0B20BD2367003E2D55 /* BEMLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013F0120BD2366003E2D55 /* BEMLine.h */; };
+		3F013F0A20BD2367003E2D55 /* BEMCircle.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013F0020BD2366003E2D55 /* BEMCircle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3F013F0B20BD2367003E2D55 /* BEMLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013F0120BD2366003E2D55 /* BEMLine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F013F0C20BD2367003E2D55 /* BEMLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013F0220BD2366003E2D55 /* BEMLine.m */; };
 /* End PBXBuildFile section */
 
