@@ -17,7 +17,7 @@
 		3F013EDD20BD209D003E2D55 /* BEMAverageLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013ED220BD209D003E2D55 /* BEMAverageLine.m */; };
 		3F013EDE20BD209D003E2D55 /* BEMGraphCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F013ED320BD209D003E2D55 /* BEMGraphCalculator.m */; };
 		3F013EDF20BD209D003E2D55 /* BEMAverageLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013ED420BD209D003E2D55 /* BEMAverageLine.h */; };
-		3F013EE020BD209D003E2D55 /* BEMSimpleLineGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013ED520BD209D003E2D55 /* BEMSimpleLineGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3F013EE320BD2241003E2D55 /* BEMSimpleLineGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F013ED520BD209D003E2D55 /* BEMSimpleLineGraph.h */; };
 		3F19032420BD1EC0001E906F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F19032320BD1EC0001E906F /* UIKit.framework */; };
 		3F19032620BD1EC5001E906F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F19032520BD1EC5001E906F /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -105,9 +105,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F013EE020BD209D003E2D55 /* BEMSimpleLineGraph.h in Headers */,
 				3F013EDF20BD209D003E2D55 /* BEMAverageLine.h in Headers */,
 				3F013ED620BD209D003E2D55 /* BEMCircle.h in Headers */,
+				3F013EE320BD2241003E2D55 /* BEMSimpleLineGraph.h in Headers */,
 				3F013ED720BD209D003E2D55 /* BEMSimpleLineGraphView.h in Headers */,
 				3F013EDB20BD209D003E2D55 /* BEMGraphCalculator.h in Headers */,
 				3F013EDA20BD209D003E2D55 /* BEMLine.h in Headers */,
@@ -329,7 +329,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				USE_HEADERMAP = YES;
+				USE_HEADERMAP = NO;
 			};
 			name = Debug;
 		};
@@ -354,7 +354,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				USE_HEADERMAP = YES;
+				USE_HEADERMAP = NO;
 			};
 			name = Release;
 		};
