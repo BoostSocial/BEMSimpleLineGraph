@@ -10,7 +10,7 @@
 		3F19030120BD1B38001E906F /* BEMSimpleLineGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F1902FF20BD1B38001E906F /* BEMSimpleLineGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F19031220BD1B43001E906F /* BEMLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F19030820BD1B43001E906F /* BEMLine.m */; };
 		3F19031320BD1B43001E906F /* BEMCircle.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F19030920BD1B43001E906F /* BEMCircle.h */; };
-		3F19031420BD1B43001E906F /* BEMSimpleLineGraphView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F19030A20BD1B43001E906F /* BEMSimpleLineGraphView.h */; };
+		3F19031420BD1B43001E906F /* BEMSimpleLineGraphView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F19030A20BD1B43001E906F /* BEMSimpleLineGraphView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F19031520BD1B43001E906F /* BEMGraphCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F19030B20BD1B43001E906F /* BEMGraphCalculator.m */; };
 		3F19031620BD1B43001E906F /* BEMAverageLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F19030C20BD1B43001E906F /* BEMAverageLine.m */; };
 		3F19031720BD1B43001E906F /* BEMLine.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F19030D20BD1B43001E906F /* BEMLine.h */; };
@@ -99,8 +99,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F19031A20BD1B43001E906F /* BEMAverageLine.h in Headers */,
-				3F19030120BD1B38001E906F /* BEMSimpleLineGraph.h in Headers */,
 				3F19031420BD1B43001E906F /* BEMSimpleLineGraphView.h in Headers */,
+				3F19030120BD1B38001E906F /* BEMSimpleLineGraph.h in Headers */,
 				3F19031320BD1B43001E906F /* BEMCircle.h in Headers */,
 				3F19031B20BD1B43001E906F /* BEMGraphCalculator.h in Headers */,
 				3F19031720BD1B43001E906F /* BEMLine.h in Headers */,
