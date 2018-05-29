@@ -1,0 +1,493 @@
+BCSymbolMap Version: 2.0
+-[BEMAverageLine init]
+-[BEMAverageLine enableAverageLine]
+-[BEMAverageLine setEnableAverageLine:]
+-[BEMAverageLine color]
+-[BEMAverageLine setColor:]
+-[BEMAverageLine yValue]
+-[BEMAverageLine setYValue:]
+-[BEMAverageLine alpha]
+-[BEMAverageLine setAlpha:]
+-[BEMAverageLine width]
+-[BEMAverageLine setWidth:]
+-[BEMAverageLine dashPattern]
+-[BEMAverageLine setDashPattern:]
+-[BEMAverageLine .cxx_destruct]
+_OBJC_IVAR_$_BEMAverageLine._enableAverageLine
+_OBJC_IVAR_$_BEMAverageLine._color
+_OBJC_IVAR_$_BEMAverageLine._alpha
+_OBJC_IVAR_$_BEMAverageLine._width
+_OBJC_IVAR_$_BEMAverageLine._yValue
+_OBJC_IVAR_$_BEMAverageLine._dashPattern
+Apple LLVM version 9.1.0 (clang-902.0.39.1)
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMAverageLine.m
+/Users/jeremy/desktop/listtrackerdependencies/bemsimplelinegraph
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMAverageLine.h
+-[BEMCircle initWithFrame:]
+-[BEMCircle drawRect:]
+-[BEMCircle shouldDisplayConstantly]
+-[BEMCircle setShouldDisplayConstantly:]
+-[BEMCircle Pointcolor]
+-[BEMCircle setPointcolor:]
+-[BEMCircle absoluteValue]
+-[BEMCircle setAbsoluteValue:]
+-[BEMCircle .cxx_destruct]
+_OBJC_IVAR_$_BEMCircle._shouldDisplayConstantly
+_OBJC_IVAR_$_BEMCircle._Pointcolor
+_OBJC_IVAR_$_BEMCircle._absoluteValue
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMCircle.m
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMCircle.h
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMPermanentPopupView.m
+-[BEMLine initWithFrame:]
+-[BEMLine drawRect:]
+-[BEMLine topPointsArray]
+-[BEMLine bottomPointsArray]
++[BEMLine linesToPoints:]
++[BEMLine quadCurvedPathWithPoints:]
+_controlPointForPoints
+-[BEMLine animateForLayer:withAnimationType:isAnimatingReferenceLine:]
+-[BEMLine backgroundGradientLayerForLayer:]
+-[BEMLine arrayOfPoints]
+-[BEMLine setArrayOfPoints:]
+-[BEMLine arrayOfVerticalRefrenceLinePoints]
+-[BEMLine setArrayOfVerticalRefrenceLinePoints:]
+-[BEMLine verticalReferenceHorizontalFringeNegation]
+-[BEMLine setVerticalReferenceHorizontalFringeNegation:]
+-[BEMLine arrayOfHorizontalRefrenceLinePoints]
+-[BEMLine setArrayOfHorizontalRefrenceLinePoints:]
+-[BEMLine arrayOfValues]
+-[BEMLine setArrayOfValues:]
+-[BEMLine enableRefrenceLines]
+-[BEMLine setEnableRefrenceLines:]
+-[BEMLine enableRefrenceFrame]
+-[BEMLine setEnableRefrenceFrame:]
+-[BEMLine enableLeftReferenceFrameLine]
+-[BEMLine setEnableLeftReferenceFrameLine:]
+-[BEMLine enableBottomReferenceFrameLine]
+-[BEMLine setEnableBottomReferenceFrameLine:]
+-[BEMLine enableRightReferenceFrameLine]
+-[BEMLine setEnableRightReferenceFrameLine:]
+-[BEMLine enableTopReferenceFrameLine]
+-[BEMLine setEnableTopReferenceFrameLine:]
+-[BEMLine lineDashPatternForReferenceXAxisLines]
+-[BEMLine setLineDashPatternForReferenceXAxisLines:]
+-[BEMLine lineDashPatternForReferenceYAxisLines]
+-[BEMLine setLineDashPatternForReferenceYAxisLines:]
+-[BEMLine interpolateNullValues]
+-[BEMLine setInterpolateNullValues:]
+-[BEMLine disableMainLine]
+-[BEMLine setDisableMainLine:]
+-[BEMLine color]
+-[BEMLine setColor:]
+-[BEMLine topColor]
+-[BEMLine setTopColor:]
+-[BEMLine topGradient]
+-[BEMLine setTopGradient:]
+-[BEMLine bottomColor]
+-[BEMLine setBottomColor:]
+-[BEMLine bottomGradient]
+-[BEMLine setBottomGradient:]
+-[BEMLine lineGradient]
+-[BEMLine setLineGradient:]
+-[BEMLine lineGradientDirection]
+-[BEMLine setLineGradientDirection:]
+-[BEMLine refrenceLineColor]
+-[BEMLine setRefrenceLineColor:]
+-[BEMLine lineAlpha]
+-[BEMLine setLineAlpha:]
+-[BEMLine topAlpha]
+-[BEMLine setTopAlpha:]
+-[BEMLine bottomAlpha]
+-[BEMLine setBottomAlpha:]
+-[BEMLine lineWidth]
+-[BEMLine setLineWidth:]
+-[BEMLine referenceLineWidth]
+-[BEMLine setReferenceLineWidth:]
+-[BEMLine bezierCurveIsEnabled]
+-[BEMLine setBezierCurveIsEnabled:]
+-[BEMLine animationTime]
+-[BEMLine setAnimationTime:]
+-[BEMLine animationType]
+-[BEMLine setAnimationType:]
+-[BEMLine averageLine]
+-[BEMLine setAverageLine:]
+-[BEMLine averageLineYCoordinate]
+-[BEMLine setAverageLineYCoordinate:]
+-[BEMLine points]
+-[BEMLine setPoints:]
+-[BEMLine .cxx_destruct]
+_OBJC_IVAR_$_BEMLine._enableLeftReferenceFrameLine
+_OBJC_IVAR_$_BEMLine._enableBottomReferenceFrameLine
+_OBJC_IVAR_$_BEMLine._interpolateNullValues
+_OBJC_IVAR_$_BEMLine._arrayOfPoints
+_OBJC_IVAR_$_BEMLine._arrayOfVerticalRefrenceLinePoints
+_OBJC_IVAR_$_BEMLine._verticalReferenceHorizontalFringeNegation
+_OBJC_IVAR_$_BEMLine._arrayOfHorizontalRefrenceLinePoints
+_OBJC_IVAR_$_BEMLine._arrayOfValues
+_OBJC_IVAR_$_BEMLine._enableRefrenceLines
+_OBJC_IVAR_$_BEMLine._enableRefrenceFrame
+_OBJC_IVAR_$_BEMLine._enableRightReferenceFrameLine
+_OBJC_IVAR_$_BEMLine._enableTopReferenceFrameLine
+_OBJC_IVAR_$_BEMLine._lineDashPatternForReferenceXAxisLines
+_OBJC_IVAR_$_BEMLine._lineDashPatternForReferenceYAxisLines
+_OBJC_IVAR_$_BEMLine._disableMainLine
+_OBJC_IVAR_$_BEMLine._color
+_OBJC_IVAR_$_BEMLine._topColor
+_OBJC_IVAR_$_BEMLine._topGradient
+_OBJC_IVAR_$_BEMLine._bottomColor
+_OBJC_IVAR_$_BEMLine._bottomGradient
+_OBJC_IVAR_$_BEMLine._lineGradient
+_OBJC_IVAR_$_BEMLine._lineGradientDirection
+_OBJC_IVAR_$_BEMLine._refrenceLineColor
+_OBJC_IVAR_$_BEMLine._lineAlpha
+_OBJC_IVAR_$_BEMLine._topAlpha
+_OBJC_IVAR_$_BEMLine._bottomAlpha
+_OBJC_IVAR_$_BEMLine._lineWidth
+_OBJC_IVAR_$_BEMLine._referenceLineWidth
+_OBJC_IVAR_$_BEMLine._bezierCurveIsEnabled
+_OBJC_IVAR_$_BEMLine._animationTime
+_OBJC_IVAR_$_BEMLine._animationType
+_OBJC_IVAR_$_BEMLine._averageLine
+_OBJC_IVAR_$_BEMLine._averageLineYCoordinate
+_OBJC_IVAR_$_BEMLine._points
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMLine.m
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMLine.h
+controlPointForPoints
+midPointForPoints
+-[BEMSimpleLineGraphView initWithFrame:]
+-[BEMSimpleLineGraphView initWithCoder:]
+-[BEMSimpleLineGraphView commonInit]
+-[BEMSimpleLineGraphView prepareForInterfaceBuilder]
+-[BEMSimpleLineGraphView drawGraph]
+-[BEMSimpleLineGraphView layoutSubviews]
+-[BEMSimpleLineGraphView layoutNumberOfPoints]
+-[BEMSimpleLineGraphView layoutTouchReport]
+-[BEMSimpleLineGraphView didFinishDrawingIncludingYAxis:]
+___57-[BEMSimpleLineGraphView didFinishDrawingIncludingYAxis:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[BEMSimpleLineGraphView drawEntireGraph]
+-[BEMSimpleLineGraphView drawDots]
+___34-[BEMSimpleLineGraphView drawDots]_block_invoke
+___copy_helper_block_.317
+___destroy_helper_block_.318
+___34-[BEMSimpleLineGraphView drawDots]_block_invoke.320
+___34-[BEMSimpleLineGraphView drawDots]_block_invoke_2
+___copy_helper_block_.321
+___destroy_helper_block_.322
+___copy_helper_block_.326
+___destroy_helper_block_.327
+-[BEMSimpleLineGraphView drawLine]
+-[BEMSimpleLineGraphView drawXAxis]
+___35-[BEMSimpleLineGraphView drawXAxis]_block_invoke
+___copy_helper_block_.517
+___destroy_helper_block_.518
+-[BEMSimpleLineGraphView xAxisTextForIndex:]
+-[BEMSimpleLineGraphView xAxisLabelWithText:atIndex:]
+-[BEMSimpleLineGraphView drawYAxis]
+___35-[BEMSimpleLineGraphView drawYAxis]_block_invoke
+___copy_helper_block_.565
+___destroy_helper_block_.566
+-[BEMSimpleLineGraphView drawableGraphArea]
+-[BEMSimpleLineGraphView drawableXAxisArea]
+-[BEMSimpleLineGraphView offsetForXAxisWithNumberOfGaps:]
+-[BEMSimpleLineGraphView displayPermanentLabelForPoint:]
+___56-[BEMSimpleLineGraphView displayPermanentLabelForPoint:]_block_invoke
+___copy_helper_block_.576
+___destroy_helper_block_.577
+-[BEMSimpleLineGraphView checkOverlapsForView:]
+-[BEMSimpleLineGraphView graphSnapshotImage]
+-[BEMSimpleLineGraphView graphSnapshotImageRenderedWhileInBackground:]
+-[BEMSimpleLineGraphView reloadGraph]
+-[BEMSimpleLineGraphView calculationDataPoints]
+___47-[BEMSimpleLineGraphView calculationDataPoints]_block_invoke
+-[BEMSimpleLineGraphView calculatePointValueAverage]
+-[BEMSimpleLineGraphView calculatePointValueSum]
+-[BEMSimpleLineGraphView calculatePointValueMedian]
+-[BEMSimpleLineGraphView calculatePointValueMode]
+-[BEMSimpleLineGraphView calculateLineGraphStandardDeviation]
+-[BEMSimpleLineGraphView calculateMinimumPointValue]
+-[BEMSimpleLineGraphView calculateMaximumPointValue]
+-[BEMSimpleLineGraphView graphValuesForXAxis]
+-[BEMSimpleLineGraphView graphValuesForDataPoints]
+-[BEMSimpleLineGraphView graphLabelsForXAxis]
+-[BEMSimpleLineGraphView setAnimationGraphStyle:]
+-[BEMSimpleLineGraphView gestureRecognizerShouldBegin:]
+-[BEMSimpleLineGraphView gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:]
+-[BEMSimpleLineGraphView gestureRecognizer:shouldReceiveTouch:]
+-[BEMSimpleLineGraphView handleGestureAction:]
+___46-[BEMSimpleLineGraphView handleGestureAction:]_block_invoke
+___copy_helper_block_.665
+___destroy_helper_block_.666
+-[BEMSimpleLineGraphView distanceToClosestPoint]
+-[BEMSimpleLineGraphView setUpPopUpLabelAbovePoint:]
+___52-[BEMSimpleLineGraphView setUpPopUpLabelAbovePoint:]_block_invoke
+___copy_helper_block_.680
+___destroy_helper_block_.681
+-[BEMSimpleLineGraphView closestDotFromtouchInputLine:]
+-[BEMSimpleLineGraphView getMaximumValue]
+-[BEMSimpleLineGraphView getMinimumValue]
+-[BEMSimpleLineGraphView yPositionForDotValue:]
+-[BEMSimpleLineGraphView setColorTouchInputLine:]
+-[BEMSimpleLineGraphView printDeprecationAndUnavailableWarningForOldMethod:]
+-[BEMSimpleLineGraphView printDeprecationWarningForOldMethod:andReplacementMethod:]
+-[BEMSimpleLineGraphView delegate]
+-[BEMSimpleLineGraphView setDelegate:]
+-[BEMSimpleLineGraphView dataSource]
+-[BEMSimpleLineGraphView setDataSource:]
+-[BEMSimpleLineGraphView labelFont]
+-[BEMSimpleLineGraphView setLabelFont:]
+-[BEMSimpleLineGraphView animationGraphEntranceTime]
+-[BEMSimpleLineGraphView setAnimationGraphEntranceTime:]
+-[BEMSimpleLineGraphView animationGraphStyle]
+-[BEMSimpleLineGraphView enableTouchReport]
+-[BEMSimpleLineGraphView setEnableTouchReport:]
+-[BEMSimpleLineGraphView touchReportFingersRequired]
+-[BEMSimpleLineGraphView setTouchReportFingersRequired:]
+-[BEMSimpleLineGraphView enablePopUpReport]
+-[BEMSimpleLineGraphView setEnablePopUpReport:]
+-[BEMSimpleLineGraphView enableBezierCurve]
+-[BEMSimpleLineGraphView setEnableBezierCurve:]
+-[BEMSimpleLineGraphView enableYAxisLabel]
+-[BEMSimpleLineGraphView setEnableYAxisLabel:]
+-[BEMSimpleLineGraphView enableXAxisLabel]
+-[BEMSimpleLineGraphView setEnableXAxisLabel:]
+-[BEMSimpleLineGraphView autoScaleYAxis]
+-[BEMSimpleLineGraphView setAutoScaleYAxis:]
+-[BEMSimpleLineGraphView averageLine]
+-[BEMSimpleLineGraphView setAverageLine:]
+-[BEMSimpleLineGraphView enableReferenceXAxisLines]
+-[BEMSimpleLineGraphView setEnableReferenceXAxisLines:]
+-[BEMSimpleLineGraphView enableReferenceYAxisLines]
+-[BEMSimpleLineGraphView setEnableReferenceYAxisLines:]
+-[BEMSimpleLineGraphView enableReferenceAxisFrame]
+-[BEMSimpleLineGraphView setEnableReferenceAxisFrame:]
+-[BEMSimpleLineGraphView enableLeftReferenceAxisFrameLine]
+-[BEMSimpleLineGraphView setEnableLeftReferenceAxisFrameLine:]
+-[BEMSimpleLineGraphView enableBottomReferenceAxisFrameLine]
+-[BEMSimpleLineGraphView setEnableBottomReferenceAxisFrameLine:]
+-[BEMSimpleLineGraphView enableRightReferenceAxisFrameLine]
+-[BEMSimpleLineGraphView setEnableRightReferenceAxisFrameLine:]
+-[BEMSimpleLineGraphView enableTopReferenceAxisFrameLine]
+-[BEMSimpleLineGraphView setEnableTopReferenceAxisFrameLine:]
+-[BEMSimpleLineGraphView alwaysDisplayDots]
+-[BEMSimpleLineGraphView setAlwaysDisplayDots:]
+-[BEMSimpleLineGraphView displayDotsWhileAnimating]
+-[BEMSimpleLineGraphView setDisplayDotsWhileAnimating:]
+-[BEMSimpleLineGraphView alwaysDisplayPopUpLabels]
+-[BEMSimpleLineGraphView setAlwaysDisplayPopUpLabels:]
+-[BEMSimpleLineGraphView colorBottom]
+-[BEMSimpleLineGraphView setColorBottom:]
+-[BEMSimpleLineGraphView alphaBottom]
+-[BEMSimpleLineGraphView setAlphaBottom:]
+-[BEMSimpleLineGraphView gradientBottom]
+-[BEMSimpleLineGraphView setGradientBottom:]
+-[BEMSimpleLineGraphView colorTop]
+-[BEMSimpleLineGraphView setColorTop:]
+-[BEMSimpleLineGraphView alphaTop]
+-[BEMSimpleLineGraphView setAlphaTop:]
+-[BEMSimpleLineGraphView gradientTop]
+-[BEMSimpleLineGraphView setGradientTop:]
+-[BEMSimpleLineGraphView colorLine]
+-[BEMSimpleLineGraphView setColorLine:]
+-[BEMSimpleLineGraphView gradientLine]
+-[BEMSimpleLineGraphView setGradientLine:]
+-[BEMSimpleLineGraphView gradientLineDirection]
+-[BEMSimpleLineGraphView setGradientLineDirection:]
+-[BEMSimpleLineGraphView alphaLine]
+-[BEMSimpleLineGraphView setAlphaLine:]
+-[BEMSimpleLineGraphView widthLine]
+-[BEMSimpleLineGraphView setWidthLine:]
+-[BEMSimpleLineGraphView widthReferenceLines]
+-[BEMSimpleLineGraphView setWidthReferenceLines:]
+-[BEMSimpleLineGraphView colorReferenceLines]
+-[BEMSimpleLineGraphView setColorReferenceLines:]
+-[BEMSimpleLineGraphView sizePoint]
+-[BEMSimpleLineGraphView setSizePoint:]
+-[BEMSimpleLineGraphView colorPoint]
+-[BEMSimpleLineGraphView setColorPoint:]
+-[BEMSimpleLineGraphView colorTouchInputLine]
+-[BEMSimpleLineGraphView alphaTouchInputLine]
+-[BEMSimpleLineGraphView setAlphaTouchInputLine:]
+-[BEMSimpleLineGraphView widthTouchInputLine]
+-[BEMSimpleLineGraphView setWidthTouchInputLine:]
+-[BEMSimpleLineGraphView colorXaxisLabel]
+-[BEMSimpleLineGraphView setColorXaxisLabel:]
+-[BEMSimpleLineGraphView colorBackgroundXaxis]
+-[BEMSimpleLineGraphView setColorBackgroundXaxis:]
+-[BEMSimpleLineGraphView alphaBackgroundXaxis]
+-[BEMSimpleLineGraphView setAlphaBackgroundXaxis:]
+-[BEMSimpleLineGraphView colorBackgroundYaxis]
+-[BEMSimpleLineGraphView setColorBackgroundYaxis:]
+-[BEMSimpleLineGraphView alphaBackgroundYaxis]
+-[BEMSimpleLineGraphView setAlphaBackgroundYaxis:]
+-[BEMSimpleLineGraphView colorYaxisLabel]
+-[BEMSimpleLineGraphView setColorYaxisLabel:]
+-[BEMSimpleLineGraphView colorBackgroundPopUplabel]
+-[BEMSimpleLineGraphView setColorBackgroundPopUplabel:]
+-[BEMSimpleLineGraphView positionYAxisRight]
+-[BEMSimpleLineGraphView setPositionYAxisRight:]
+-[BEMSimpleLineGraphView lineDashPatternForReferenceXAxisLines]
+-[BEMSimpleLineGraphView setLineDashPatternForReferenceXAxisLines:]
+-[BEMSimpleLineGraphView lineDashPatternForReferenceYAxisLines]
+-[BEMSimpleLineGraphView setLineDashPatternForReferenceYAxisLines:]
+-[BEMSimpleLineGraphView noDataLabelColor]
+-[BEMSimpleLineGraphView setNoDataLabelColor:]
+-[BEMSimpleLineGraphView noDataLabelFont]
+-[BEMSimpleLineGraphView setNoDataLabelFont:]
+-[BEMSimpleLineGraphView formatStringForValues]
+-[BEMSimpleLineGraphView setFormatStringForValues:]
+-[BEMSimpleLineGraphView interpolateNullValues]
+-[BEMSimpleLineGraphView setInterpolateNullValues:]
+-[BEMSimpleLineGraphView displayDotsOnly]
+-[BEMSimpleLineGraphView setDisplayDotsOnly:]
+-[BEMSimpleLineGraphView touchInputLine]
+-[BEMSimpleLineGraphView setTouchInputLine:]
+-[BEMSimpleLineGraphView panView]
+-[BEMSimpleLineGraphView setPanView:]
+-[BEMSimpleLineGraphView noDataLabel]
+-[BEMSimpleLineGraphView setNoDataLabel:]
+-[BEMSimpleLineGraphView panGesture]
+-[BEMSimpleLineGraphView setPanGesture:]
+-[BEMSimpleLineGraphView longPressGesture]
+-[BEMSimpleLineGraphView setLongPressGesture:]
+-[BEMSimpleLineGraphView popUpLabel]
+-[BEMSimpleLineGraphView setPopUpLabel:]
+-[BEMSimpleLineGraphView popUpView]
+-[BEMSimpleLineGraphView setPopUpView:]
+-[BEMSimpleLineGraphView xCenterLabel]
+-[BEMSimpleLineGraphView setXCenterLabel:]
+-[BEMSimpleLineGraphView yCenterLabel]
+-[BEMSimpleLineGraphView setYCenterLabel:]
+-[BEMSimpleLineGraphView XAxisLabelYOffset]
+-[BEMSimpleLineGraphView setXAxisLabelYOffset:]
+-[BEMSimpleLineGraphView YAxisLabelXOffset]
+-[BEMSimpleLineGraphView setYAxisLabelXOffset:]
+-[BEMSimpleLineGraphView maxValue]
+-[BEMSimpleLineGraphView setMaxValue:]
+-[BEMSimpleLineGraphView minValue]
+-[BEMSimpleLineGraphView setMinValue:]
+-[BEMSimpleLineGraphView usingCustomPopupView]
+-[BEMSimpleLineGraphView setUsingCustomPopupView:]
+-[BEMSimpleLineGraphView currentViewSize]
+-[BEMSimpleLineGraphView setCurrentViewSize:]
+-[BEMSimpleLineGraphView backgroundXAxis]
+-[BEMSimpleLineGraphView setBackgroundXAxis:]
+-[BEMSimpleLineGraphView .cxx_destruct]
+_OBJC_IVAR_$_BEMSimpleLineGraphView._labelFont
+_OBJC_IVAR_$_BEMSimpleLineGraphView._animationGraphEntranceTime
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorXaxisLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorYaxisLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorTop
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorBottom
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorPoint
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorTouchInputLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorBackgroundPopUplabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaTouchInputLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._widthTouchInputLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorBackgroundXaxis
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaBackgroundXaxis
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorBackgroundYaxis
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaBackgroundYaxis
+_OBJC_IVAR_$_BEMSimpleLineGraphView._displayDotsWhileAnimating
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaTop
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaBottom
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alphaLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._widthLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._widthReferenceLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._sizePoint
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableTouchReport
+_OBJC_IVAR_$_BEMSimpleLineGraphView._touchReportFingersRequired
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enablePopUpReport
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableBezierCurve
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableXAxisLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableYAxisLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._YAxisLabelXOffset
+_OBJC_IVAR_$_BEMSimpleLineGraphView._autoScaleYAxis
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alwaysDisplayDots
+_OBJC_IVAR_$_BEMSimpleLineGraphView._alwaysDisplayPopUpLabels
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableLeftReferenceAxisFrameLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableBottomReferenceAxisFrameLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._formatStringForValues
+_OBJC_IVAR_$_BEMSimpleLineGraphView._interpolateNullValues
+_OBJC_IVAR_$_BEMSimpleLineGraphView._displayDotsOnly
+_OBJC_IVAR_$_BEMSimpleLineGraphView.xAxisValues
+_OBJC_IVAR_$_BEMSimpleLineGraphView.xAxisHorizontalFringeNegationValue
+_OBJC_IVAR_$_BEMSimpleLineGraphView.xAxisLabelPoints
+_OBJC_IVAR_$_BEMSimpleLineGraphView.yAxisLabelPoints
+_OBJC_IVAR_$_BEMSimpleLineGraphView.dataPoints
+_OBJC_IVAR_$_BEMSimpleLineGraphView.xAxisLabels
+_OBJC_IVAR_$_BEMSimpleLineGraphView.yAxisValues
+_OBJC_IVAR_$_BEMSimpleLineGraphView._averageLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView.numberOfPoints
+___block_descriptor_tmp
+___block_descriptor_tmp.319
+___block_descriptor_tmp.323
+___block_descriptor_tmp.329
+___block_descriptor_tmp.520
+___block_descriptor_tmp.567
+___block_descriptor_tmp.578
+___block_descriptor_tmp.592
+___block_literal_global
+_OBJC_IVAR_$_BEMSimpleLineGraphView._animationGraphStyle
+_OBJC_IVAR_$_BEMSimpleLineGraphView.closestDot
+___block_descriptor_tmp.667
+___block_descriptor_tmp.682
+_OBJC_IVAR_$_BEMSimpleLineGraphView.currentlyCloser
+_OBJC_IVAR_$_BEMSimpleLineGraphView._delegate
+_OBJC_IVAR_$_BEMSimpleLineGraphView._dataSource
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableReferenceXAxisLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableReferenceYAxisLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableReferenceAxisFrame
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableRightReferenceAxisFrameLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._enableTopReferenceAxisFrameLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._gradientBottom
+_OBJC_IVAR_$_BEMSimpleLineGraphView._gradientTop
+_OBJC_IVAR_$_BEMSimpleLineGraphView._gradientLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._gradientLineDirection
+_OBJC_IVAR_$_BEMSimpleLineGraphView._colorReferenceLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._positionYAxisRight
+_OBJC_IVAR_$_BEMSimpleLineGraphView._lineDashPatternForReferenceXAxisLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._lineDashPatternForReferenceYAxisLines
+_OBJC_IVAR_$_BEMSimpleLineGraphView._noDataLabelColor
+_OBJC_IVAR_$_BEMSimpleLineGraphView._noDataLabelFont
+_OBJC_IVAR_$_BEMSimpleLineGraphView._touchInputLine
+_OBJC_IVAR_$_BEMSimpleLineGraphView._panView
+_OBJC_IVAR_$_BEMSimpleLineGraphView._noDataLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._panGesture
+_OBJC_IVAR_$_BEMSimpleLineGraphView._longPressGesture
+_OBJC_IVAR_$_BEMSimpleLineGraphView._popUpLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._popUpView
+_OBJC_IVAR_$_BEMSimpleLineGraphView._xCenterLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._yCenterLabel
+_OBJC_IVAR_$_BEMSimpleLineGraphView._XAxisLabelYOffset
+_OBJC_IVAR_$_BEMSimpleLineGraphView._maxValue
+_OBJC_IVAR_$_BEMSimpleLineGraphView._minValue
+_OBJC_IVAR_$_BEMSimpleLineGraphView._usingCustomPopupView
+_OBJC_IVAR_$_BEMSimpleLineGraphView._currentViewSize
+_OBJC_IVAR_$_BEMSimpleLineGraphView._backgroundXAxis
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIGestureRecognizerDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIGestureRecognizerDelegate
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMSimpleLineGraphView.m
+/Users/jeremy/Desktop/ListTrackerDependencies/BEMSimpleLineGraph/BEMSimpleLineGraph/BEMSimpleLineGraphView.h
+__destroy_helper_block_
+__copy_helper_block_
+__52-[BEMSimpleLineGraphView setUpPopUpLabelAbovePoint:]_block_invoke
+__CGPointEqualToPoint
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__46-[BEMSimpleLineGraphView handleGestureAction:]_block_invoke
+__47-[BEMSimpleLineGraphView calculationDataPoints]_block_invoke
+__56-[BEMSimpleLineGraphView displayPermanentLabelForPoint:]_block_invoke
+__35-[BEMSimpleLineGraphView drawYAxis]_block_invoke
+__35-[BEMSimpleLineGraphView drawXAxis]_block_invoke
+__34-[BEMSimpleLineGraphView drawDots]_block_invoke_2
+__34-[BEMSimpleLineGraphView drawDots]_block_invoke.320
+__34-[BEMSimpleLineGraphView drawDots]_block_invoke
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+__57-[BEMSimpleLineGraphView didFinishDrawingIncludingYAxis:]_block_invoke
+__CGSizeEqualToSize
+/Users/jeremy/Library/Developer/Xcode/DerivedData/BEMSimpleLineGraph-frkjheyjztanbxejrxnazkphlpac/Build/Intermediates.noindex/ArchiveIntermediates/BEMSimpleLineGraph/IntermediateBuildFilesPath/BEMSimpleLineGraph.build/Release-iphoneos/BEMSimpleLineGraph.build/DerivedSources/BEMSimpleLineGraph_vers.c
