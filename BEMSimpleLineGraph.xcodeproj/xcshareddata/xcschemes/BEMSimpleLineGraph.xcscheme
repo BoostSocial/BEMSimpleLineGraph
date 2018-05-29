@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F1902FB20BD1B38001E906F"
+               BlueprintIdentifier = "3F013EED20BD2349003E2D55"
                BuildableName = "BEMSimpleLineGraph.framework"
                BlueprintName = "BEMSimpleLineGraph"
                ReferencedContainer = "container:BEMSimpleLineGraph.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F1902FB20BD1B38001E906F"
+            BlueprintIdentifier = "3F013EED20BD2349003E2D55"
             BuildableName = "BEMSimpleLineGraph.framework"
             BlueprintName = "BEMSimpleLineGraph"
             ReferencedContainer = "container:BEMSimpleLineGraph.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F1902FB20BD1B38001E906F"
+            BlueprintIdentifier = "3F013EED20BD2349003E2D55"
             BuildableName = "BEMSimpleLineGraph.framework"
             BlueprintName = "BEMSimpleLineGraph"
             ReferencedContainer = "container:BEMSimpleLineGraph.xcodeproj">
